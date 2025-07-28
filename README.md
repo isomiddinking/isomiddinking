@@ -42,7 +42,7 @@
 
 ## 📫 Bog‘lanish
 
-- Telegram: [@isomiddinking](https://t.me/isomiddinking)
+- Telegram: [@isomiddinking](https://t.me/Xakimdjanov8)
 - GitHub: [isomiddinking](https://github.com/isomiddinking)
 - Email: `isomiddin.dev@gmail.com` (agar mavjud bo‘lsa, o‘zgartirasiz)
 
