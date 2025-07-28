@@ -1,21 +1,21 @@
-<h1 align="center">👋 Salom, men Isomiddinman</h1>
+<h1 align="center">👋 Hi there, I'm Isomiddin</h1>
 <p align="center">
 </p>
 
 ---
 
-## 🧠 Men haqimda qisqacha:
+## 🧠 About Me:
 
-- 🎓 6+ oylik frontend tajriba (HTML, CSS, JS, React)
-- 📱 Figma dizaynlar asosida to‘liq **responsive saytlar** yarataman
-- 💡 Yangi texnologiyalarni o‘rganishga doimo tayyorman
-- 💬 JavaScript, React, Git va Web Dizayn haqida so‘rashingiz mumkin
-- 🔧 Hozirda **Python** va **AI** bo‘yicha chuqurroq o‘rganmoqdaman
-- 🌐 O‘z portfolio saytlarim va loyihalarimni GitHub'da muntazam ulashib boraman
+- 🎓 6+ months of frontend development experience (HTML, CSS, JS, React)
+- 📱 I build fully **responsive websites** based on Figma designs
+- 💡 Always eager to learn new technologies
+- 💬 Feel free to ask me about JavaScript, React, Git, or Web Design
+- 🔧 Currently diving deeper into **Python** and **Artificial Intelligence**
+- 🌐 I regularly share my projects and portfolio on GitHub
 
 ---
 
-## ⚒️ Texnologiyalar va Asboblar:
+## ⚒️ Tools & Technologies:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -28,7 +28,7 @@
 
 ---
 
-## 📊 GitHub Statistika
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=isomiddinking&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -40,12 +40,12 @@
 
 ---
 
-## 📫 Bog‘lanish
+## 📫 Connect with Me:
 
-- Telegram: [@isomiddinking](https://t.me/Xakimdjanov8)
+- Telegram: [@Xakimdjanov8](https://t.me/Xakimdjanov8)
 - GitHub: [isomiddinking](https://github.com/isomiddinking)
-- Email: `isomiddin.dev@gmail.com` (agar mavjud bo‘lsa, o‘zgartirasiz)
+- Email: `isomiddin.dev@gmail.com` (if available)
 
 ---
 
-> “Har kuni yangi kod — yangi imkoniyat.” 💻🚀
+> “A new line of code each day brings new opportunities.” 💻🚀
