@@ -6,7 +6,7 @@
 
 ## 🧠 About Me:
 
-- 🎓 6+ months of frontend development experience (HTML, CSS, JS, React)
+- 🎓 1+ years of frontend development experience (HTML, CSS, JS, React)
 - 📱 I build fully **responsive websites** based on Figma designs
 - 💡 Always eager to learn new technologies
 - 💬 Feel free to ask me about JavaScript, React, Git, or Web Design
