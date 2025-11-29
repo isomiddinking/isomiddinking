@@ -61,7 +61,7 @@
 
 ## 📫 Connect With Me  
 <p align="center">
-  <a href="https://t.me/Xakimdjanov8">
+  <a href="https://t.me/Xakimdjanov7">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://github.com/isomiddinking">
